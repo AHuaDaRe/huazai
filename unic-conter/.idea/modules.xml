@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/unic-base/unic-base.iml" filepath="$PROJECT_DIR$/unic-base/unic-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unic-conter.iml" filepath="$PROJECT_DIR$/unic-conter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unic-web/unic-web.iml" filepath="$PROJECT_DIR$/unic-web/unic-web.iml" />
+    </modules>
+  </component>
+</project>
