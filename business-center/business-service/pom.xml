@@ -9,8 +9,39 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.huazai.business</groupId>
     <artifactId>business-service</artifactId>
+    <packaging>jar</packaging>
+    <name>business-service</name>
+    <url>http://maven.apache.org</url>
+
+
+    <dependencies>
+
+        <dependency>
+            <groupId>com.huazai.unic</groupId>
+            <artifactId>unic-activiti</artifactId>
+            <version>${unic.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.huazai.unic</groupId>
+            <artifactId>unic-jdbc</artifactId>
+            <version>${unic.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.huazai.unic</groupId>
+            <artifactId>unic-web</artifactId>
+            <version>${unic.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.huazai.unic</groupId>
+            <artifactId>unic-rbac</artifactId>
+            <version>${unic.version}</version>
+        </dependency>
+
+    </dependencies>
 
 
 </project>

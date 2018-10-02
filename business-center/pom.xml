@@ -25,7 +25,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <spring.version>4.3.2.RELEASE</spring.version>
         <junit.version>4.12</junit.version>
-        <unic.version>0.0.1-SNAPSHOT</unic.version>
+        <unic.version>1.0-SNAPSHOT</unic.version>
     </properties>
 
     <dependencies>
